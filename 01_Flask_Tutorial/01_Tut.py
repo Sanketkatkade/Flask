@@ -6,7 +6,7 @@ def hello():
     return "Hello World!"
 
 @app.route("/sanket")
-def harry():
-    return "Hello sanket bhai4!"
+def sanket():
+    return "Hello sanket bhai!"
 
 app.run(debug=True)
